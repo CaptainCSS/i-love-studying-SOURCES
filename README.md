@@ -1,7 +1,7 @@
 # i-love-studying-SOURCES
 HTML files that have proxies, games, etc.
 
-## To download any of the files, click on them, then click the download icon on the right.
+# TO GET THE FILES, CLICK ON "Releases" ON THE SIDEBAR AND CLICK THE FILE YOU WANT.
 
 ## DESCRIPTIONS OF FILES:
 **GUST-Lite.html**: A lite version of GUST.\
